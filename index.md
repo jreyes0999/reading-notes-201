@@ -1,4 +1,4 @@
-**A growth mindset is being *open* to receiving _new information_, _others viewpoints_, and being able to _openly_ discuss issues without trying to downplay others_**. **This is _key_ to being able to grasp understanding of the expanding world around you**. 
+A growth mindset is being *open* to receiving _new information_, _others viewpoints_, and being able to _openly_ discuss issues without trying to downplay others_. This is **_key_** to being able to grasp understanding of the expanding world around you. 
 
 
 ## Reminders for a growth mindset
