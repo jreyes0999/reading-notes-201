@@ -4,7 +4,7 @@
 >  ## Reminders for a growth mindset
 > <ol> 
 >   <li>Active listening.</li>
->   <li>Encourage others; ~jealousy~</li>
+>   <li>Encourage others; ~jealousy~ </li>
 >   <li>Push yourself to do better even when you think you've done your best.</li>
 > </ol>
 
