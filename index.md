@@ -9,7 +9,7 @@ A growth mindset is being *open* to receiving _new information_, _others viewpoi
 > </ol>
 
 <body>
-~Jealousy~ is your worst enemy. <span>&#129497;</span>
+~~Jealousy~~ is your worst enemy. <span>&#129497;</span>
 
   
 <span>&#129312;</span> 
