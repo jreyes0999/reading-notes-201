@@ -4,8 +4,10 @@
 >  ## Reminders for a growth mindset
 > <ol> 
 >   <li> Active listening.</li>
->   <li> Encourage others;</li> ~jealousy~
+>   <li> Encourage others/offer support</li> 
 >   <li> Push yourself to do better even when you think you've done your best.</li>
 > </ol>
+
+~Jealousy~ is your worst enemy. 
 
 :cowboy_hat_face:	
