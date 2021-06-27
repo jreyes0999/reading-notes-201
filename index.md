@@ -9,7 +9,7 @@
 > </ol>
 
 
-~Jealousy~ is your worst enemy. 
+~~Jealousy~~ is your worst enemy. 
 
 
 :cowboy_hat_face:	
