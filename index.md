@@ -9,7 +9,7 @@
 > </ol>
 
 <body>
-<strike>~~Jealousy~~</strike> is your worst enemy. <p>&#129497</p>
+<strike>~~Jealousy~~</strike> is your worst enemy. <p>&#129497;</p>
 
 
-<p>&#129312</p></body> :cowboy_hat_face:	
+<p>&#129312;</p></body> :cowboy_hat_face:	
