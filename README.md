@@ -18,6 +18,7 @@ A growth mindset is being *open* to receiving _new information_, _others viewpoi
 </body> 
 
 
+
 ### Self Introduction
 
 [My Github Profile](https://github.com/Defluxit)
