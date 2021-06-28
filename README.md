@@ -11,12 +11,9 @@ A growth mindset is being *open* to receiving _new information_, _others viewpoi
 > </ol>
 
 <body>
-  <strike>Jealousy</strike> is your worst enemy. <span>&#129497;</span>
-
-  
+  <strike>Jealousy</strike> is your worst enemy. <span>&#129497;</span> 
   <p>&#129312;</p> 
 </body> 
-
 
 
 ### Self Introduction
