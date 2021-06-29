@@ -42,78 +42,54 @@
             * The attribute value wrapped by opening and closing quotation marks. 
 
 ## Anatomy of an HTML document
-
-Example:
-<!DOCTYPE html>
-<html>
-  <head>
-    <meta charset="utf-8">
-    <title>My test page</title>
-  </head>
-  <body>
-    <img src="images/firefox-icon.png" alt="My test image">
-  </body>
-</html>
-
-    * <!DOCTYPE html> — doctype. Needed to make your document behave correctly. 
-    * <html></html> — the <html> element. This element wraps all the content on the entire page and is sometimes known as the root element.
-    * <head></head> — the <head> element. This element acts as a container for all the stuff you want to include on the HTML page that isn't the content you are showing to your page's viewers. This includes things like keywords and a page description that you want to appear in search results, CSS to style our content, character set declarations, and more.
-    * <meta charset="utf-8"> — This element sets the character set your document should use to UTF-8 which includes most characters from the vast majority of written languages. Essentially, it can now handle any textual content you might put on it. There is no reason not to set this and it can help avoid some problems later on.
-    * <title></title> — the <title> element. This sets the title of your page, which is the title that appears in the browser tab the page is loaded in. It is also used to describe the page when you bookmark/favorite it.
-    * <body></body> — the <body> element. This contains all the content that you want to show to web users when they visit your page, whether that's text, images, videos, games, playable audio tracks, or whatever else.
+  * <!DOCTYPE html> — doctype. Needed to make your document behave correctly. 
+  * <html></html> — the <html> element. This element wraps all the content on the entire page and is sometimes known as the root element.
+  * <head></head> — the <head> element. This element acts as a container for all the stuff you want to include on the HTML page that isn't the content you are showing to your page's viewers. This includes things like keywords and a page description that you want to appear in search results, CSS to style our content, character set declarations, and more.
+  * <meta charset="utf-8"> — This element sets the character set your document should use to UTF-8 which includes most characters from the vast majority of written languages. Essentially, it can now handle any textual content you might put on it. There is no reason not to set this and it can help avoid some problems later on.
+  * <title></title> — the <title> element. This sets the title of your page, which is the title that appears in the browser tab the page is loaded in. It is also used to describe the page when you bookmark/favorite it.
+  * <body></body> — the <body> element. This contains all the content that you want to show to web users when they visit your page, whether that's text, images, videos, games, playable audio tracks, or whatever else.
 
 #### Headings
-    * Heading elements allow you to specify that certain parts of your content are headings — or subheadings. In the same way that a book has the main title, chapter titles, and subtitles, an HTML document can too. HTML contains 6 heading levels, <h1>–<h6>, although you'll commonly only use 3 to 4 at most:
-        * <h1>My main title</h1>
-        * <h2>My top level heading</h2>
-        * <h3>My subheading</h3>
-        * <h4>My sub-subheading</h4>
+  * Heading elements allow you to specify that certain parts of your content are headings — or subheadings. In the same way that a book has the main title, chapter titles, and subtitles, an HTML document can too. HTML contains 6 heading levels, <h1>–<h6>, although you'll commonly only use 3 to 4 at most:
+    * <h1>My main title</h1>
+    * <h2>My top level heading</h2>
+    * <h3>My subheading</h3>
+    * <h4>My sub-subheading</h4>
 
 ### Lists
     1. Unordered lists are for lists where the order of the items doesn't matter, such as a shopping list. These are wrapped in a <ul> element.
     2. Ordered lists are for lists where the order of the items does matter, such as a recipe. These are wrapped in an <ol> element.
 Example: 
-```
-<p>At Mozilla, we’re a global community of</p>
-
 <ul>
-  <li>technologists</li>
-  <li>thinkers</li>
-  <li>builders</li>
+  <li></li>
+  <li></li>
+  <li></li>
 </ul>
 
-<p>working together ... </p>
-```
 ### Links
-    *  To add a link, we need to use a simple element — <a> — "a" being the short form for "anchor". To make text within your paragraph into a link, follow these steps:
+  *  To add a link, we need to use a simple element — <a> — "a" being the short form for "anchor". To make text within your paragraph into a link, follow these steps:
 Example: `<a href="link">text</a> <a href="https://youtube.com">YouTube</a>`
 
 # Semantics
-    * In programming, Semantics refers to the meaning of a piece of code — for example "what effect does running that line of JavaScript have?", or "what purpose or role does that HTML element have" (rather than "what does it look like?".)
+  * In programming, Semantics refers to the meaning of a piece of code — for example "what effect does running that line of JavaScript have?", or "what purpose or role does that HTML element have" (rather than "what does it look like?".)
 ## Semantics in JavaScript
-    * In JavaScript, consider a function that takes a string parameter, and returns an <li> element with that string as its textContent. Would you need to look at the code to understand what the function did if it was called build('Peach'), or createLiWithContent('Peach')?
+  * In JavaScript, consider a function that takes a string parameter, and returns an <li> element with that string as its textContent. Would you need to look at the code to understand what the function did if it was called build('Peach'), or createLiWithContent('Peach')?
 ## Semantics in CSS
-    * In CSS, consider styling a list with li elements representing different types of fruits. Would you know what part of the DOM is being selected with div > ul > li, or .fruits__item?
+  * In CSS, consider styling a list with li elements representing different types of fruits. Would you know what part of the DOM is being selected with div > ul > li, or .fruits__item?
 ## Semantics in HTML
-    * In HTML, for example, the <h1> element is a semantic element, which gives the text it wraps around the role (or meaning) of "a top level heading on your page." HTML should be coded to represent the data that will be populated and not based on its default presentation styling. Presentation (how it should look), is the sole responsibility of CSS.
+  * In HTML, for example, the <h1> element is a semantic element, which gives the text it wraps around the role (or meaning) of "a top level heading on your page." HTML should be coded to represent the data that will be populated and not based on its default presentation styling. Presentation (how it should look), is the sole responsibility of CSS.
 ### Benefits from Writing Semantic Markup
-    *Search engines will consider its contents as important keywords to influence the page's search rankings.
+  *Search engines will consider its contents as important keywords to influence the page's search rankings.
     * Screen readers can use it as a signpost to help visually impaired users navigate a page.
     * Finding blocks of meaningful code is significantly easier than searching through endless divs with or without semantic or namespaced classes.
     * Suggests to the developer the type of data that will be populated.
     * Semantic naming mirrors proper custom element/component naming.
 ## Semantic elements
-    * These are *some* of the roughly 100 semantic elements available: 
-        *<article>
-        *<aside>
-        *<details>
-        *<figcaption>
-        *<figure>
-        *<footer>
-        *<header>
-        *<main>
-        *<mark>
-        *<nav>
-        *<section>
-        *<summary>
-        *<time>
+  * These are *some* of the roughly 100 semantic elements available: 
+    *<article>
+    *<aside>
+    *<footer>
+    *<header>
+    *<main>
+    *<nav>
+   
