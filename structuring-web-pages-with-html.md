@@ -25,12 +25,12 @@
 
 ## What is HTML?
 * HTML is a markup language that defines the structure of your content. HTML consists of a series of elements, which you use to enclose, or wrap, different parts of the content to make it appear a certain way, or act a certain way. The enclosing tags can make a word or image hyperlink to somewhere else, can italicize words, can make the font bigger or smaller, and so on
-  * HTML uses "markup" to annotate text, images, and other content for display in a Web browser. HTML markup includes special "elements" such as ```<head>, <title>, <body>, <header>, <footer>, <article>, <section>, <p>, <div>, <span>, <img>, <aside>, <audio>, <canvas>, <datalist>, <details>, <embed>, <nav>, <output>, <progress>, <video>, <ul>, <ol>, <li>```and many others.
+    * HTML uses "markup" to annotate text, images, and other content for display in a Web browser. HTML markup includes special "elements" such as ```<head>, <title>, <body>, <header>, <footer>, <article>, <section>, <p>, <div>, <span>, <img>, <aside>, <audio>, <canvas>, <datalist>, <details>, <embed>, <nav>, <output>, <progress>, <video>, <ul>, <ol>, <li>```and many others.
     
 ### HMTL Basics
-  * An HTML element is set off from other text in a document by "tags", which consist of the element name surrounded by "<" and ">".  The name of an element inside a tag is case insensitive. That is, it can be written in uppercase, lowercase, or a mixture. For example, the <title> tag can be written as <Title>, <TITLE>, or in any other way.
+  * An HTML element is set off from other text in a document by "tags", which consist of the element name surrounded by "<" and ">".  The name of an element inside a tag is case insensitive. That is, it can be written in uppercase, lowercase, or a mixture. For example, the `<title>` tag can be written as `<Title>`, `<TITLE>`, or in any other way.
     * The opening tag: This consists of the name of the element, wrapped in opening and closing angle brackets. This states where the element begins or starts to take effect.
-      * The closing tag: This is the same as the opening tag, except that it includes a forward slash before the element name. This states where the element ends; <p> </p> Failing to add a closing tag is one of the standard beginner errors and can lead to strange results.
+      * The closing tag: This is the same as the opening tag, except that it includes a forward slash before the element name. This states where the element ends; `<p>` `</p>` Failing to add a closing tag is one of the standard beginner errors and can lead to strange results.
         * The content: This is the content of the element.
         * The element: The opening tag, the closing tag, and the content together comprise the element.
           * **Elements can also have attributes** and should have the following:
@@ -39,19 +39,19 @@
             * The attribute value wrapped by opening and closing quotation marks. 
 
 ## Anatomy of an HTML document
-  * !DOCTYPE html — doctype. Needed to make your document behave correctly. 
-  * html | /html — This element wraps all the content on the entire page and is sometimes known as the root element.
-  * head | /head — This element acts as a container for all the stuff you want to include on the HTML page that isn't the content you are showing to your page's viewers. This includes things like keywords and a page description that you want to appear in search results, CSS to style our content, character set declarations, and more.
-  * meta charset="utf-8" — This element sets the character set your document should use to UTF-8 which includes most characters from the vast majority of written languages. Essentially, it can now handle any textual content you might put on it. There is no reason not to set this and it can help avoid some problems later on.
-  * title | /title — This sets the title of your page, which is the title that appears in the browser tab the page is loaded in. It is also used to describe the page when you bookmark/favorite it.
-  * body | /body — This contains all the content that you want to show to web users when they visit your page, whether that's text, images, videos, games, playable audio tracks, or whatever else.
+  * `<!DOCTYPE html>` — doctype. Needed to make your document behave correctly. 
+  * `<html></html>` — This element wraps all the content on the entire page and is sometimes known as the root element.
+  * `<head></head>` — This element acts as a container for all the stuff you want to include on the HTML page that isn't the content you are showing to your page's viewers. This includes things like keywords and a page description that you want to appear in search results, CSS to style our content, character set declarations, and more.
+  * `<meta charset="utf-8">` — This element sets the character set your document should use to UTF-8 which includes most characters from the vast majority of written languages. Essentially, it can now handle any textual content you might put on it. There is no reason not to set this and it can help avoid some problems later on.
+  * `<title></title>` — This sets the title of your page, which is the title that appears in the browser tab the page is loaded in. It is also used to describe the page when you bookmark/favorite it.
+  * `<body></body>` — This contains all the content that you want to show to web users when they visit your page, whether that's text, images, videos, games, playable audio tracks, or whatever else.
 
 ### Headings
   * Heading elements allow you to specify that certain parts of your content are headings — or subheadings. In the same way that a book has the main title, chapter titles, and subtitles, an HTML document can too. HTML contains 6 heading levels, <h1>–<h6>, although you'll commonly only use 3 to 4 at most:
-    * "<h1>My main title</h1>"
-    * "<h2>My top level heading</h2>"
-    * "<h3>My subheading</h3>"
-    * "<h4>My sub-subheading</h4>"
+    * `<h1>My main title</h1>`
+    * `<h2>My top level heading</h2>`
+    * `<h3>My subheading</h3>`
+    * `<h4>My sub-subheading</h4>`
 
 ### Lists
     1. Unordered lists are for lists where the order of the items doesn't matter, such as a shopping list. These are wrapped in a <ul> element.
@@ -87,10 +87,10 @@ Example:
  * Semantic naming mirrors proper custom element/component naming.
 ### Semantic elements
 These are *some* of the roughly 100 semantic elements available: 
-  * "<article>"
-  * "<aside>"
-  * "<footer>"
-  * "<header>"
-  * "<main>"
-  * "<nav>"
+  * `<article>`
+  * `<aside>`
+  * `<footer>`
+  * `<header>`
+  * `<main>`
+  * `<nav>`
    
