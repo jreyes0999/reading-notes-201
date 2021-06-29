@@ -76,7 +76,7 @@ Example: "<a href="link">text</a> <a href="https://youtube.com">YouTube</a>"
 ## Semantics in HTML
   * In HTML, for example, the "<h1>" element is a semantic element, which gives the text it wraps around the role (or meaning) of "a top level heading on your page." HTML should be coded to represent the data that will be populated and not based on its default presentation styling. Presentation (how it should look), is the sole responsibility of CSS.
 ### Benefits from Writing Semantic Markup
-  *Search engines will consider its contents as important keywords to influence the page's search rankings.
+    * Search engines will consider its contents as important keywords to influence the page's search rankings.
     * Screen readers can use it as a signpost to help visually impaired users navigate a page.
     * Finding blocks of meaningful code is significantly easier than searching through endless divs with or without semantic or namespaced classes.
     * Suggests to the developer the type of data that will be populated.
