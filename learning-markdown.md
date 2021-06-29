@@ -54,12 +54,12 @@ Ordered Lists
 Images
 
 ![Github Logo](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
-Format: ![Alt Text](url)
+Format: ![Alt Text]("url")
 
 Links
 
 http://github.com
-[Github](htt[://github.com)
+[Github](https://github.com)
 
 
 ## GitHub Pages
