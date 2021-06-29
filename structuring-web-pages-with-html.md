@@ -1,14 +1,11 @@
 # Wireframe
-   *Wireframing allows the UX design team to know where every bit of information will go and positioning buttons, menus, and everything else before starting to code. 
-      * Wireframe Example
-      * Made by hand - Wireframes drawn with paper and a pencil, or at a whiteboard, have the advantage of looking and being very easy to change. With the help of paper-prototypes, you can test with end users at every stage of ideation and design. Changes at these stages are much easier—and therefore cheaper.
-      * Using using software like **InVision** or **Balsamiq**. Free software: **UXPin**, **InVision**, and **Wireframe.cc**.
-![Wireframe Example](https://careerfoundry.com/en/wp-content/uploads/old-blog-uploads/versions/xsamuel-student-wireframe---x----972-715x---.png.pagespeed.ic.eBpEWaqn7d.webp)
-
-* Wireframe > Interactive Prototype > Visual > Design
-* Sketch > Code
-* Sketch > Wireframe > Hi-Def Wireframe > Visual > Code
-* Sketch > Wireframe > Visual > Code
+  * Wireframing allows the UX design team to know where every bit of information will go and positioning buttons, menus, and everything else before starting to code. 
+  * Made by hand - Wireframes drawn with paper and a pencil, or at a whiteboard, have the advantage of looking and being very easy to change. With the help of paper-prototypes, you can test with end users at every stage of ideation and design. Changes at these stages are much easier—and therefore cheaper.
+  * Using using software like **InVision** or **Balsamiq**. Free software: **UXPin**, **InVision**, and **Wireframe.cc**.
+    * Wireframe > Interactive Prototype > Visual > Design
+    * Sketch > Code
+    * Sketch > Wireframe > Hi-Def Wireframe > Visual > Code
+    * Sketch > Wireframe > Visual > Code
 
 ## Wireframe Steps
    1. Do your research.
