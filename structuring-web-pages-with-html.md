@@ -25,7 +25,7 @@
 
 ## What is HTML?
 * HTML is a markup language that defines the structure of your content. HTML consists of a series of elements, which you use to enclose, or wrap, different parts of the content to make it appear a certain way, or act a certain way. The enclosing tags can make a word or image hyperlink to somewhere else, can italicize words, can make the font bigger or smaller, and so on
-  * HTML uses "markup" to annotate text, images, and other content for display in a Web browser. HTML markup includes special "elements" such as <head>, <title>, <body>, <header>, <footer>, <article>, <section>, <p>, <div>, <span>, <img>, <aside>, <audio>, <canvas>, <datalist>, <details>, <embed>, <nav>, <output>, <progress>, <video>, <ul>, <ol>, <li> and many others.
+  * HTML uses "markup" to annotate text, images, and other content for display in a Web browser. HTML markup includes special "elements" such as ```<head>, <title>, <body>, <header>, <footer>, <article>, <section>, <p>, <div>, <span>, <img>, <aside>, <audio>, <canvas>, <datalist>, <details>, <embed>, <nav>, <output>, <progress>, <video>, <ul>, <ol>, <li>```and many others.
     
 ### HMTL Basics
   * An HTML element is set off from other text in a document by "tags", which consist of the element name surrounded by "<" and ">".  The name of an element inside a tag is case insensitive. That is, it can be written in uppercase, lowercase, or a mixture. For example, the <title> tag can be written as <Title>, <TITLE>, or in any other way.
@@ -57,15 +57,19 @@
     1. Unordered lists are for lists where the order of the items doesn't matter, such as a shopping list. These are wrapped in a <ul> element.
     2. Ordered lists are for lists where the order of the items does matter, such as a recipe. These are wrapped in an <ol> element.
 Example: 
-`<ul>`
-  `<li>``</li>`
-  `<li>``</li>`
-  `<li>``</li>`
-`</ul>`
-
+```
+ <ul>
+  <li></li>
+  <li></li>
+  <li></li>
+</ul>
+```
 ### Links
   *  To add a link, we need to use a simple element — `<a>` — "a" being the short form for "anchor". To make text within your paragraph into a link, follow these steps:
-Example: `"<a href="link">text</a>"` "<a href="https://youtube.com">YouTube</a>"
+```
+ <a href="link">text</a>
+```
+ "<a href="https://youtube.com">YouTube</a>"
 
 # Semantics
   * In programming, Semantics refers to the meaning of a piece of code — for example "what effect does running that line of JavaScript have?", or "what purpose or role does that HTML element have" (rather than "what does it look like?".)
