@@ -1,35 +1,34 @@
 # Wireframe
-
-    * Wireframing allows the UX design team to know where every bit of information will go and positioning buttons, menus, and everything else before starting to code. 
-        * Wireframe Example
-            * Made by hand - Wireframes drawn with paper and a pencil, or at a whiteboard, have the advantage of looking and being very easy to change. With the help of paper-prototypes, you can test with end users at every stage of ideation and design. Changes at these stages are much easier—and therefore cheaper.
-            * Using using software like **InVision** or **Balsamiq**. Free software: **UXPin**, **InVision**, and **Wireframe.cc**.
+   *Wireframing allows the UX design team to know where every bit of information will go and positioning buttons, menus, and everything else before starting to code. 
+      * Wireframe Example
+      * Made by hand - Wireframes drawn with paper and a pencil, or at a whiteboard, have the advantage of looking and being very easy to change. With the help of paper-prototypes, you can test with end users at every stage of ideation and design. Changes at these stages are much easier—and therefore cheaper.
+      * Using using software like **InVision** or **Balsamiq**. Free software: **UXPin**, **InVision**, and **Wireframe.cc**.
 ![Wireframe Example](https://careerfoundry.com/en/wp-content/uploads/old-blog-uploads/versions/xsamuel-student-wireframe---x----972-715x---.png.pagespeed.ic.eBpEWaqn7d.webp)
 
->Wireframe > Interactive Prototype > Visual > Design
->Sketch > Code
->Sketch > Wireframe > Hi-Def Wireframe > Visual > Code
->Sketch > Wireframe > Visual > Code
+> Wireframe > Interactive Prototype > Visual > Design
+> Sketch > Code
+> Sketch > Wireframe > Hi-Def Wireframe > Visual > Code
+> Sketch > Wireframe > Visual > Code
 
 ## Wireframe Steps
-    1. Do your research.
-    2. Prepare your research for quick reference
-    3. Make sure you have your user flow mapped out
-    4. Draft, don’t draw. Sketch, don’t illustrate
-    5. Add some detail and get testing
-    6. Start turning your wireframes into prototypes
+   1. Do your research.
+   2. Prepare your research for quick reference
+   3. Make sure you have your user flow mapped out
+   4. Draft, don’t draw. Sketch, don’t illustrate
+   5. Add some detail and get testing
+   6. Start turning your wireframes into prototypes
 
 ## Key Principles for a Good Wireframe
-    * Clarity - Answers questions like, what the page is, what the user can do there, and if it satisfies their needs. 
-    * Confidence - Ease of navigation, clear calls-to-action, and using familiar positioning and processes.
-    * Simplicity - You want your users to be able to find their way through your site with as little extra ‘fluff’ as possible
+   * Clarity - Answers questions like, what the page is, what the user can do there, and if it satisfies their needs. 
+   * Confidence - Ease of navigation, clear calls-to-action, and using familiar positioning and processes.
+   * Simplicity - You want your users to be able to find their way through your site with as little extra ‘fluff’ as possible
 
 # HTML (**H**yper**t**ext **M**arkup **L**anguage)
-    * The code that is used to structure a web page and its content.
-        * "Hypertext" refers to links that connect web pages to one another, either within a single website or between websites. Links are a fundamental aspect of the Web. By uploading content to the Internet and linking it to pages created by other people, you become an active participant in the World Wide Web.
-## What is HTML?
-    * HTML is a markup language that defines the structure of your content. HTML consists of a series of elements, which you use to enclose, or wrap, different parts of the content to make it appear a certain way, or act a certain way. The enclosing tags can make a word or image hyperlink to somewhere else, can italicize words, can make the font bigger or smaller, and so on
-        * HTML uses "markup" to annotate text, images, and other content for display in a Web browser. HTML markup includes special "elements" such as <head>, <title>, <body>, <header>, <footer>, <article>, <section>, <p>, <div>, <span>, <img>, <aside>, <audio>, <canvas>, <datalist>, <details>, <embed>, <nav>, <output>, <progress>, <video>, <ul>, <ol>, <li> and many others.
+   * The code that is used to structure a web page and its content. 
+      * "Hypertext" refers to links that connect web pages to one another, either within a single website or between websites. Links are a fundamental aspect of the Web. By uploading content to the Internet and linking it to pages created by other people, you become an active participant in the World Wide Web.
+## What is HTML? 
+   * HTML is a markup language that defines the structure of your content. HTML consists of a series of elements, which you use to enclose, or wrap, different parts of the content to make it appear a certain way, or act a certain way. The enclosing tags can make a word or image hyperlink to somewhere else, can italicize words, can make the font bigger or smaller, and so on
+   * HTML uses "markup" to annotate text, images, and other content for display in a Web browser. HTML markup includes special "elements" such as <head>, <title>, <body>, <header>, <footer>, <article>, <section>, <p>, <div>, <span>, <img>, <aside>, <audio>, <canvas>, <datalist>, <details>, <embed>, <nav>, <output>, <progress>, <video>, <ul>, <ol>, <li> and many others.
     
 ### HMTL Basics
     * An HTML element is set off from other text in a document by "tags", which consist of the element name surrounded by "<" and ">".  The name of an element inside a tag is case insensitive. That is, it can be written in uppercase, lowercase, or a mixture. For example, the <title> tag can be written as <Title>, <TITLE>, or in any other way.
