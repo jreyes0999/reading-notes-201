@@ -54,9 +54,10 @@
     * `<h4>My sub-subheading</h4>`
 
 ### Lists
-    1. Unordered lists are for lists where the order of the items doesn't matter, such as a shopping list. These are wrapped in a <ul> element.
-    2. Ordered lists are for lists where the order of the items does matter, such as a recipe. These are wrapped in an <ol> element.
-Example: 
+  1. Unordered lists are for lists where the order of the items doesn't matter, such as a shopping list. These are wrapped in a `<ul>` element.
+  2. Ordered lists are for lists where the order of the items does matter, such as a recipe. These are wrapped in an `<ol>` element.
+
+ Example: 
 ```
  <ul>
   <li></li>
@@ -66,15 +67,13 @@ Example:
 ```
 ### Links
   *  To add a link, we need to use a simple element — `<a>` — "a" being the short form for "anchor". To make text within your paragraph into a link, follow these steps:
-```
- <a href="link">text</a>
-```
+`<a href="link">text</a>`
  "<a href="https://youtube.com">YouTube</a>"
 
 # Semantics
   * In programming, Semantics refers to the meaning of a piece of code — for example "what effect does running that line of JavaScript have?", or "what purpose or role does that HTML element have" (rather than "what does it look like?".)
 ## Semantics in JavaScript
-  * In JavaScript, consider a function that takes a string parameter, and returns an "<li>" element with that string as its textContent. Would you need to look at the code to understand what the function did if it was called build('Peach'), or createLiWithContent('Peach')?
+  * In JavaScript, consider a function that takes a string parameter, and returns an `<li>` element with that string as its textContent. Would you need to look at the code to understand what the function did if it was called build('Peach'), or createLiWithContent('Peach')?
 ## Semantics in CSS
   * In CSS, consider styling a list with li elements representing different types of fruits. Would you know what part of the DOM is being selected with div > ul > li, or .fruits__item?
 ## Semantics in HTML
