@@ -27,23 +27,23 @@
    * The code that is used to structure a web page and its content. 
       * "Hypertext" refers to links that connect web pages to one another, either within a single website or between websites. Links are a fundamental aspect of the Web. By uploading content to the Internet and linking it to pages created by other people, you become an active participant in the World Wide Web.
 ## What is HTML? 
-   * HTML is a markup language that defines the structure of your content. HTML consists of a series of elements, which you use to enclose, or wrap, different parts of the content to make it appear a certain way, or act a certain way. The enclosing tags can make a word or image hyperlink to somewhere else, can italicize words, can make the font bigger or smaller, and so on
-   * HTML uses "markup" to annotate text, images, and other content for display in a Web browser. HTML markup includes special "elements" such as <head>, <title>, <body>, <header>, <footer>, <article>, <section>, <p>, <div>, <span>, <img>, <aside>, <audio>, <canvas>, <datalist>, <details>, <embed>, <nav>, <output>, <progress>, <video>, <ul>, <ol>, <li> and many others.
+  * HTML is a markup language that defines the structure of your content. HTML consists of a series of elements, which you use to enclose, or wrap, different parts of the content to make it appear a certain way, or act a certain way. The enclosing tags can make a word or image hyperlink to somewhere else, can italicize words, can make the font bigger or smaller, and so on
+  * HTML uses "markup" to annotate text, images, and other content for display in a Web browser. HTML markup includes special "elements" such as <head>, <title>, <body>, <header>, <footer>, <article>, <section>, <p>, <div>, <span>, <img>, <aside>, <audio>, <canvas>, <datalist>, <details>, <embed>, <nav>, <output>, <progress>, <video>, <ul>, <ol>, <li> and many others.
     
 ### HMTL Basics
-    * An HTML element is set off from other text in a document by "tags", which consist of the element name surrounded by "<" and ">".  The name of an element inside a tag is case insensitive. That is, it can be written in uppercase, lowercase, or a mixture. For example, the <title> tag can be written as <Title>, <TITLE>, or in any other way.
-        * The opening tag: This consists of the name of the element, wrapped in opening and closing angle brackets. This states where the element begins or starts to take effect.
-        * The closing tag: This is the same as the opening tag, except that it includes a forward slash before the element name. This states where the element ends; <p> </p> Failing to add a closing tag is one of the standard beginner errors and can lead to strange results.
+  * An HTML element is set off from other text in a document by "tags", which consist of the element name surrounded by "<" and ">".  The name of an element inside a tag is case insensitive. That is, it can be written in uppercase, lowercase, or a mixture. For example, the <title> tag can be written as <Title>, <TITLE>, or in any other way.
+    * The opening tag: This consists of the name of the element, wrapped in opening and closing angle brackets. This states where the element begins or starts to take effect.
+      * The closing tag: This is the same as the opening tag, except that it includes a forward slash before the element name. This states where the element ends; <p> </p> Failing to add a closing tag is one of the standard beginner errors and can lead to strange results.
         * The content: This is the content of the element.
         * The element: The opening tag, the closing tag, and the content together comprise the element.
-            * **Elements can also have attributes** and should have the following:
-                * A space between it and the element name (or the previous attribute, if the element already has one or more attributes).
-                * The attribute name followed by an equal sign.
-                * The attribute value wrapped by opening and closing quotation marks. 
+          * **Elements can also have attributes** and should have the following:
+            * A space between it and the element name (or the previous attribute, if the element already has one or more attributes).
+            * The attribute name followed by an equal sign.
+            * The attribute value wrapped by opening and closing quotation marks. 
 
 ## Anatomy of an HTML document
-* Example:
-```
+
+Example:
 <!DOCTYPE html>
 <html>
   <head>
@@ -54,7 +54,6 @@
     <img src="images/firefox-icon.png" alt="My test image">
   </body>
 </html>
-```
 
     * <!DOCTYPE html> — doctype. Needed to make your document behave correctly. 
     * <html></html> — the <html> element. This element wraps all the content on the entire page and is sometimes known as the root element.
