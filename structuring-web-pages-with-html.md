@@ -40,11 +40,11 @@
 
 ## Anatomy of an HTML document
   * "<!DOCTYPE html>" — doctype. Needed to make your document behave correctly. 
-  * "<html></html>" — This element wraps all the content on the entire page and is sometimes known as the root element.
-  * "<head></head>" — This element acts as a container for all the stuff you want to include on the HTML page that isn't the content you are showing to your page's viewers. This includes things like keywords and a page description that you want to appear in search results, CSS to style our content, character set declarations, and more.
-  * "<meta charset="utf-8">" — This element sets the character set your document should use to UTF-8 which includes most characters from the vast majority of written languages. Essentially, it can now handle any textual content you might put on it. There is no reason not to set this and it can help avoid some problems later on.
-  * "<title></title>" — This sets the title of your page, which is the title that appears in the browser tab the page is loaded in. It is also used to describe the page when you bookmark/favorite it.
-  * "<body></body>" — This contains all the content that you want to show to web users when they visit your page, whether that's text, images, videos, games, playable audio tracks, or whatever else.
+  * html | /html — This element wraps all the content on the entire page and is sometimes known as the root element.
+  * head | /head — This element acts as a container for all the stuff you want to include on the HTML page that isn't the content you are showing to your page's viewers. This includes things like keywords and a page description that you want to appear in search results, CSS to style our content, character set declarations, and more.
+  * meta charset="utf-8" — This element sets the character set your document should use to UTF-8 which includes most characters from the vast majority of written languages. Essentially, it can now handle any textual content you might put on it. There is no reason not to set this and it can help avoid some problems later on.
+  * title | /title — This sets the title of your page, which is the title that appears in the browser tab the page is loaded in. It is also used to describe the page when you bookmark/favorite it.
+  * body | /body — This contains all the content that you want to show to web users when they visit your page, whether that's text, images, videos, games, playable audio tracks, or whatever else.
 
 #### Headings
   * Heading elements allow you to specify that certain parts of your content are headings — or subheadings. In the same way that a book has the main title, chapter titles, and subtitles, an HTML document can too. HTML contains 6 heading levels, <h1>–<h6>, although you'll commonly only use 3 to 4 at most:
@@ -57,14 +57,14 @@
     1. Unordered lists are for lists where the order of the items doesn't matter, such as a shopping list. These are wrapped in a <ul> element.
     2. Ordered lists are for lists where the order of the items does matter, such as a recipe. These are wrapped in an <ol> element.
 Example: 
-"<ul>
-  <li></li>
-  <li></li>
-  <li></li>
-</ul>"
+`<ul>`
+  `<li>``</li>`
+  `<li>``</li>`
+  `<li>``</li>`
+`</ul>`
 
 ### Links
-  *  To add a link, we need to use a simple element — "<a>" — "a" being the short form for "anchor". To make text within your paragraph into a link, follow these steps:
+  *  To add a link, we need to use a simple element — `<a>` — "a" being the short form for "anchor". To make text within your paragraph into a link, follow these steps:
 Example: "<a href="link">text</a> <a href="https://youtube.com">YouTube</a>"
 
 # Semantics
