@@ -59,7 +59,6 @@ Format: ![Alt Text]("url")
 
 Links
 
-http://github.com
 [Github](https://github.com)
 
 
