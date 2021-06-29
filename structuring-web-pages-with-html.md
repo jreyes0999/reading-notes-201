@@ -5,10 +5,10 @@
       * Using using software like **InVision** or **Balsamiq**. Free software: **UXPin**, **InVision**, and **Wireframe.cc**.
 ![Wireframe Example](https://careerfoundry.com/en/wp-content/uploads/old-blog-uploads/versions/xsamuel-student-wireframe---x----972-715x---.png.pagespeed.ic.eBpEWaqn7d.webp)
 
-> Wireframe > Interactive Prototype > Visual > Design
-> Sketch > Code
-> Sketch > Wireframe > Hi-Def Wireframe > Visual > Code
-> Sketch > Wireframe > Visual > Code
+* Wireframe > Interactive Prototype > Visual > Design
+* Sketch > Code
+* Sketch > Wireframe > Hi-Def Wireframe > Visual > Code
+* Sketch > Wireframe > Visual > Code
 
 ## Wireframe Steps
    1. Do your research.
