@@ -81,8 +81,8 @@ Example: "<a href="link">text</a> <a href="https://youtube.com">YouTube</a>"
     * Finding blocks of meaningful code is significantly easier than searching through endless divs with or without semantic or namespaced classes.
     * Suggests to the developer the type of data that will be populated.
     * Semantic naming mirrors proper custom element/component naming.
-## Semantic elements
-  * These are *some* of the roughly 100 semantic elements available: 
+### Semantic elements
+These are *some* of the roughly 100 semantic elements available: 
     * "<article>"
     * "<aside>"
     * "<footer>"
