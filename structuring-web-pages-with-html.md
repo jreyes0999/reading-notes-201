@@ -65,7 +65,7 @@ Example:
 
 ### Links
   *  To add a link, we need to use a simple element — `<a>` — "a" being the short form for "anchor". To make text within your paragraph into a link, follow these steps:
-Example: `"<a href="link">text</a>"` <a href="https://youtube.com">YouTube</a>"
+Example: `"<a href="link">text</a>"` "<a href="https://youtube.com">YouTube</a>"
 
 # Semantics
   * In programming, Semantics refers to the meaning of a piece of code — for example "what effect does running that line of JavaScript have?", or "what purpose or role does that HTML element have" (rather than "what does it look like?".)
