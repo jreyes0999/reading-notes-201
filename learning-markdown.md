@@ -68,7 +68,7 @@ GitHub pages allows you to turn your repositories into websites to showcase your
 
 ## How does GitHub Pages work?
 
-- Github is the server that hosts all your project sites with you own ur which is linked to the username you signed up with. 
+- Github is the server that hosts all your project sites with your own url which is linked to the username you signed up with. 
 
 - GitHub looks for web content on your Github Pages branch.
 
