@@ -7,9 +7,9 @@
 * Phone: Private Message
 
 ## Table of Contents
-[Learning Markdown](https://defluxit.github.io/reading-notes/learning-markdown)
-[The Coders Computer](https://defluxit.github.io/reading-notes/the-coders-computer)
-[Growth Mindset](https://defluxit.github.io/reading-notes/growth-mindset)
-[Revisions and the Cloud](https://defluxit.github.io/reading-notes/revisions-and-the-cloud)
-[Structure Web Pages with HTML](https://defluxit.github.io/reading-notes/structuring-web-pages-with-html)
-[Design Web Pages with CSS](https://defluxit.github.io/reading-notes/design-web-pages-with-css)
+* [Learning Markdown](https://defluxit.github.io/reading-notes/learning-markdown)
+* [The Coders Computer](https://defluxit.github.io/reading-notes/the-coders-computer)
+* [Growth Mindset](https://defluxit.github.io/reading-notes/growth-mindset)
+* [Revisions and the Cloud](https://defluxit.github.io/reading-notes/revisions-and-the-cloud)
+* [Structure Web Pages with HTML](https://defluxit.github.io/reading-notes/structuring-web-pages-with-html)
+* [Design Web Pages with CSS](https://defluxit.github.io/reading-notes/design-web-pages-with-css)
