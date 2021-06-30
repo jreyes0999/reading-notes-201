@@ -1,5 +1,5 @@
 # Self Introduction
-* I am [Jonathan Reyes](https://github.com/Defluxit/), I am 22 years old, and I was born and raised in Memphis, TN. I am currently a student with code crew aspiring to be a Full Stack Developer.
+* I am [Jonathan Reyes](https://github.com/Defluxit/), I am 22 years old, and I was born and raised in Memphis, TN.  I’m interested in video games, anime, new foods, and learning languages. I am currently studying Arabic. I am a student with Code Crew aspiring to be a Full Stack Developer.
 
 ## Contact Info
 * E-mail: astroghost1@gmail.com
