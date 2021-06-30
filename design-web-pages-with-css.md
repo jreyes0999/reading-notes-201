@@ -35,7 +35,7 @@
 * Can be set with HEX, RGB, RGBA, HSL, and HSLA values. 
 
 ### Basic selectors
-* Universal selector *, ns|*, *|*, |*
+* Universal selector `*, ns|*, *|*, |*`
 * Type selector elementname
 * Class selector .classname
 * ID selector #idname
