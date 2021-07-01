@@ -85,3 +85,52 @@ console.log('my ' + 'string'); // console logs the string "my string".
 var mystring = 'alpha';
 mystring += 'bet'; // evaluates to "alphabet" and assigns this value to mystring.
 ```
+# Loops and iteration
+* Loops offer a quick and easy way to do something repeatedly.
+* You can think of a loop as a computerized version of the game where you tell someone to take X steps in one direction, then Y steps in another. For example, the idea "Go five steps to the east" could be expressed this way as a loop:
+```
+for (let step = 0; step < 5; step++) {
+  // Runs 5 times, with values of step 0 through 4.
+  console.log('Walking east one step');
+}
+```
+* The statements for loops provided in JavaScript are:
+    * for statement
+    * do...while statement
+    * while statement
+    * labeled statement
+    * break statement
+    * continue statement
+    * for...in statement
+    * for...of statement
+* A for loop repeats until a specified condition evaluates to false. 
+```
+for ([initialExpression]; [conditionExpression]; [incrementExpression])
+  statement
+```
+![for loop execution](https://flux.s-ul.eu/qXjU1SEX.png)
+* A while statement executes its statements as long as a specified condition evaluates to true. A while statement looks as follows:
+```
+while (condition)
+  statement
+  ```
+* If the condition becomes false, statement within the loop stops executing and control passes to the statement following the loop.
+* The condition test occurs before statement in the loop is executed. If the condition returns true, statement is executed and the condition is tested again. If the condition returns false, execution stops, and control is passed to the statement following while.
+    * To execute multiple statements, use a block statement ({ ... }) to group those statements.The following while loop iterates as long as n is less than 3:
+```
+let n = 0;
+let x = 0;
+while (n < 3) {
+  n++;
+  x += n;
+}
+```
+![Example Above](https://flux.s-ul.eu/P2DvYcWr.png)
+* **Avoid infinite loops**. Make sure the condition in a loop eventually becomes false—otherwise, the loop will never terminate! The statements in the following while loop execute forever because the condition never becomes false:
+```
+// Infinite loops are bad!
+while (true) {
+  console.log('Hello, world!');
+}
+```
+
