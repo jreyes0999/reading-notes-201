@@ -129,8 +129,3 @@ var _lastName = "Johnson";
 var _x = 2;
 var _100 = 5;
 ```
-
-
-
-
-
