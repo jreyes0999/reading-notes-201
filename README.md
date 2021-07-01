@@ -14,3 +14,5 @@
 * [Structure Web Pages with HTML](https://defluxit.github.io/reading-notes/structuring-web-pages-with-html)
 * [Design Web Pages with CSS](https://defluxit.github.io/reading-notes/design-web-pages-with-css)
 * [Dynamic Web Pages with JavaScript](https://defluxit.github.io/reading-notes/dynamic-web-pages-with-javascript)
+* [Programming with JavaScript](https://defluxit.github.io/reading-notes/programming-with-javascript)
+* [Operators and Loops](https://defluxit.github.io/reading-notes/operators-and-loops)
