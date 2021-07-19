@@ -7,7 +7,7 @@
 * Phone: Private Message
 
 ## Table of Contents
-### Code 102 Notes
+### [Code 102 Notes](https://defluxit.github.io/reading-notes/102/)
 * [Learning Markdown](https://defluxit.github.io/reading-notes/102/learning-markdown)
 * [The Coders Computer](https://defluxit.github.io/reading-notes/102/the-coders-computer)
 * [Growth Mindset](https://defluxit.github.io/reading-notes/102/growth-mindset)
