@@ -4,7 +4,8 @@
 ## Contact Info
 * E-mail: astroghost1@gmail.com
 * Discord: yoni#2699
-* LinkedIn: https://www.linkedin.com/in/defluxit/
+* LinkedIn: <a href="https://www.linkedin.com/in/defluxit/">https://www.linkedin.com/in/defluxit/</a>
+
 
 ## Table of Contents
 ### Code 201 Notes
