@@ -17,7 +17,7 @@
 * [Dynamic Web Pages with JavaScript](https://defluxit.github.io/reading-notes/102/dynamic-web-pages-with-javascript)
 * [Programming with JavaScript](https://defluxit.github.io/reading-notes/102/programming-with-javascript)
 * [Operators and Loops](https://defluxit.github.io/reading-notes/102/operators-and-loops)
-### Code 201 Notes
+### [Code 201 Notes](https://defluxit.github.io/reading-notes/201/)
 * [Assorted Topics]
 * [CSS Transforms, Transitions, and Animations]
 * [Docs for the HTML]
