@@ -7,6 +7,7 @@
 * Phone: Private Message
 
 ## Table of Contents
+### Code 102 Notes
 * [Learning Markdown](https://defluxit.github.io/reading-notes/learning-markdown)
 * [The Coders Computer](https://defluxit.github.io/reading-notes/the-coders-computer)
 * [Growth Mindset](https://defluxit.github.io/reading-notes/growth-mindset)
@@ -16,3 +17,19 @@
 * [Dynamic Web Pages with JavaScript](https://defluxit.github.io/reading-notes/dynamic-web-pages-with-javascript)
 * [Programming with JavaScript](https://defluxit.github.io/reading-notes/programming-with-javascript)
 * [Operators and Loops](https://defluxit.github.io/reading-notes/operators-and-loops)
+### Code 201 Notes
+* [Assorted Topics]
+* [CSS Transforms, Transitions, and Animations]
+* [Docs for the HTML]
+* [Forms and JS Events]
+* [HTML Images, CSS Color & Text]
+* [HTML Links, CSS Layout, JS Functions]
+* [HTML Lists, CSS Boxes, JS Control Flow]
+* [HTML Tables, JS Constructor Functions]
+* [HTML Text, CSS Introduction and Basic JavaScript Instructions]
+* [JS Debugging]
+* [JS Object Literals and The DOM]
+* [Local Storage]
+* [More CSS Layout]
+* [What Google Learned About Teams]
+* 
