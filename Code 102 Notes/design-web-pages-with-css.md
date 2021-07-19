@@ -33,7 +33,7 @@
 ```
 
 ## CSS Color Property
-* The color property specifies the color of text.
+* The color property specifies the color of text. 
 * CSS Syntax: color: color|initial|inherit;
 * Can be set with HEX, RGB, RGBA, HSL, and HSLA values. 
 
