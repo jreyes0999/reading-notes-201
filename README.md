@@ -32,4 +32,3 @@
 * [Local Storage]
 * [More CSS Layout]
 * [What Google Learned About Teams]
-* 
