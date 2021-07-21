@@ -9,17 +9,5 @@
 
 ## Table of Contents
 ### Code 201 Notes
-* [Assorted Topics]
-* [CSS Transforms, Transitions, and Animations]
-* [Docs for the HTML]
-* [Forms and JS Events]
-* [HTML Images, CSS Color & Text]
-* [HTML Links, CSS Layout, JS Functions]
-* [HTML Lists, CSS Boxes, JS Control Flow]
-* [HTML Tables, JS Constructor Functions]
-* [HTML Text, CSS Introduction and Basic JavaScript Instructions]
-* [JS Debugging]
-* [JS Object Literals and The DOM]
-* [Local Storage]
-* [More CSS Layout]
-* [What Google Learned About Teams]
+* [Basics of HTML, CSS, and JavaScript](https://defluxit.github.io/reading-notes-201/basics-of-html-css-js)
+* [HTML Lists, CSS Boxes, JS Control Flow](https://defluxit.github.io/reading-notes-201/html-lists-css-boxes-js-control-flow)
