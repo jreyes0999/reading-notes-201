@@ -9,5 +9,6 @@
 
 ## Table of Contents
 ### Code 201 Notes
-* [Basics of HTML, CSS, and JavaScript](https://defluxit.github.io/reading-notes-201/basics-of-html-css-js)
-* [HTML Lists, CSS Boxes, JS Control Flow](https://defluxit.github.io/reading-notes-201/html-lists-css-boxes-js-control-flow)
+* [Basics of HTML, CSS, and JavaScript](https://defluxit.github.io/reading-notes-201/notes-1)
+* [HTML Lists, CSS Boxes, JS Control Flow](https://defluxit.github.io/reading-notes-201/notes-2)
+* [HTML Links, JS Functions, and Intro to CSS Layout](https://defluxit.github.io/reading-notes-201/notes-3)
