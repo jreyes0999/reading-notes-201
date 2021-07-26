@@ -13,4 +13,4 @@
 * [HTML Lists, CSS Boxes, JS Control Flow](https://defluxit.github.io/reading-notes-201/notes2)
 * [HTML Links, JS Functions, and Intro to CSS Layout](https://defluxit.github.io/reading-notes-201/notes3)
 * [Images, Color, Text](https://defluxit.github.io/reading-notes-201/notes4)
-* [Problem Domain, Objects, and the DOM]((https://defluxit.github.io/reading-notes-201/notes5)
+* [Problem Domain, Objects, and the DOM](https://defluxit.github.io/reading-notes-201/notes5)
