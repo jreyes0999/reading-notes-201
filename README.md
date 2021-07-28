@@ -14,3 +14,5 @@
 * [HTML Links, JS Functions, and Intro to CSS Layout](https://defluxit.github.io/reading-notes-201/notes3)
 * [Images, Color, Text](https://defluxit.github.io/reading-notes-201/notes4)
 * [Problem Domain, Objects, and the DOM](https://defluxit.github.io/reading-notes-201/notes5)
+* [HTML Tables; JS Constructor Functions](https://defluxit.github.io/reading-notes-201/notes6)
+* [CSS Layout](https://defluxit.github.io/reading-notes-201/notes7)
