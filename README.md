@@ -16,3 +16,4 @@
 * [Problem Domain, Objects, and the DOM](https://defluxit.github.io/reading-notes-201/notes5)
 * [HTML Tables; JS Constructor Functions](https://defluxit.github.io/reading-notes-201/notes6)
 * [CSS Layout](https://defluxit.github.io/reading-notes-201/notes7)
+* [Forms and JS Events](https://defluxit.github.io/reading-notes-201/notes8)
