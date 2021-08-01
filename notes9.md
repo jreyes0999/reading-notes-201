@@ -1,4 +1,4 @@
-# Error Handling & Debugging
+# JS Debugging
 
 ## Variable Scope
 - Global Scope: When a variable is declared outside of a function
