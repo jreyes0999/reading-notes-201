@@ -17,3 +17,4 @@
 * [HTML Tables; JS Constructor Functions](https://defluxit.github.io/reading-notes-201/notes6)
 * [CSS Layout](https://defluxit.github.io/reading-notes-201/notes7)
 * [Forms and JS Events](https://defluxit.github.io/reading-notes-201/notes8)
+* [JS Debugging]((https://defluxit.github.io/reading-notes-201/notes9)
