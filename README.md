@@ -21,3 +21,5 @@
 * [Audio, Video, Images](https://defluxit.github.io/reading-notes-201/notes10)
 * [Chart.js, Canvas](https://defluxit.github.io/reading-notes-201/notes11)
 * [Local Storage](https://defluxit.github.io/reading-notes-201/notes12)
+* [What Google Learned About Teams](https://defluxit.github.io/reading-notes-201/notes13a)
+* [What Google Learned About Teams](https://defluxit.github.io/reading-notes-201/notes13b)
